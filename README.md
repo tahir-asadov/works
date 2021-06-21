@@ -2,6 +2,7 @@
 
 ### Recent Works
   #### https://portfolio-app-lab.vercel.app/ Next JS + Styled components. Demo App
+  #### https://portfolio-tailwind-app-lab.vercel.app/ Next JS + Tailwind CSS. Demo App
   #### https://al-jawharah.com/en/ - Frontend and Backend(Figma > WP)
   #### https://forazerbaijan.org/ - Frontend and Backend(Figma > WP)
   #### https://growthdock.io/ - Frontend and Backend(Adobe XD > WP)
