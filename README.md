@@ -2,7 +2,7 @@
 
 ### Recent Works
   #### https://tahir-asadov.github.io/ https://github.com/tahir-asadov/tahir-asadov.github.io My Portfolio
-  #### https://app.mektebli.net https://github.com/tahir-asadov/Mektebli-Quiz Quiz
+  #### https://app.mektebli.net https://github.com/tahir-asadov/Mektebli-Quiz Quiz PWA
   #### https://github.com/tahir-asadov/Region-Photo-Site Photo Site
   #### https://portfolio-app-lab.vercel.app/ https://github.com/tahir-asadov/Region-Photo Laravel Project - Demo App
   #### https://portfolio-app-lab.vercel.app/ Next JS + Styled components. Demo App
