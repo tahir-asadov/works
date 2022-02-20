@@ -11,7 +11,6 @@
   #### https://github.com/tahir-asadov/Portfolio-Tailwind-App-Lab
   #### https://forazerbaijan.org/ - Frontend and Backend(Figma > WP)
   #### https://lingoways.com/en/ - Frontend and backend(Adobe XD > WP)
-  #### http://www.petieparker.com/shambe/ - Frontend and backend(Adobe XD > WP)
 
 
 ### PSD to HTML
