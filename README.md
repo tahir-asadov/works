@@ -31,6 +31,6 @@
 ### Codes
   #### https://github.com/tahir-asadov
 
-### My website
-  #### https://tahirasadov.com/
+<!-- ### My website
+  #### https://tahirasadov.com/ -->
 <!--  -->
