@@ -11,15 +11,15 @@
 
 
 ## **PSD to HTML**
-  #### https://hopeful-northcutt-d00c72.netlify.app  - **[Source code](https://github.com/tahir-asadov/beryoga)**
-  #### https://trusting-swartz-5ceed1.netlify.app  - **[Source code](https://github.com/tahir-asadov/slab-shot)**
-  #### https://quizzical-varahamihira-7018c3.netlify.app  - **[Source code](https://github.com/tahir-asadov/creative-agency-arkusha-)**
-  #### https://tender-jackson-1fe466.netlify.app  - **[Source code](https://github.com/tahir-asadov/Productly)**
-  ####  https://mystifying-bhaskara-53e2b7.netlify.app - **[Source code](https://github.com/tahir-asadov/GoHub-Landing-Page)**
+  #### https://beryoga-template.netlify.app  - **[Source code](https://github.com/tahir-asadov/beryoga)**
+  #### https://slabshot-template.netlify.app  - **[Source code](https://github.com/tahir-asadov/slab-shot)**
+  #### https://arkusha-template.netlify.app  - **[Source code](https://github.com/tahir-asadov/creative-agency-arkusha-)**
+  #### https://productly-template2.netlify.app  - **[Source code](https://github.com/tahir-asadov/Productly)**
+  ####  https://gohub-template.netlify.app - **[Source code](https://github.com/tahir-asadov/GoHub-Landing-Page)**
 
 ## **Email Templates**
-  #### https://boring-shockley-61e3a4.netlify.app  **[Source code](https://github.com/tahir-asadov/agency-email-template)**
-  #### https://cranky-jackson-754a4b.netlify.app  **[Source code](https://github.com/tahir-asadov/blog-email-template)**
+  #### https://uifuse.netlify.app  **[Source code](https://github.com/tahir-asadov/agency-email-template)**
+  #### https://blog-email.netlify.app  **[Source code](https://github.com/tahir-asadov/blog-email-template)**
 
 ## **Codes**
   #### https://github.com/tahir-asadov
