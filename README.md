@@ -2,6 +2,7 @@
 
 ### **Recent Works**
   #### **My Portfolio** https://tahir-asadov.github.io **[Source code](https://github.com/tahir-asadov/tahir-asadov.github.io)**
+  #### **Tailwind Demo Site** https://edustage-tailwind.netlify.app/ **[Source code](https://github.com/tahir-asadov/edustage-tailwind)**
   #### **Quiz PWA** https://app.mektebli.net **[Source code](https://github.com/tahir-asadov/Mektebli-Quiz)**
   #### **Photo Site (Laravel 8)** **[Source code](https://github.com/tahir-asadov/Region-Photo-Site)**
   #### **Next JS + Tailwind CSS. Demo App** https://portfolio-tailwind-app-lab.vercel.app **[Source code](https://github.com/tahir-asadov/Portfolio-Tailwind-App-Lab)**
