@@ -10,7 +10,7 @@
   #### **Next JS + Tailwind CSS. Demo App** https://portfolio-tailwind-app-lab.vercel.app **[Source code](https://github.com/tahir-asadov/Portfolio-Tailwind-App-Lab)**
   #### **Next JS + Styled components. Demo App** https://portfolio-app-lab.vercel.app  **[Source code](https://github.com/tahir-asadov/Portfolio---App-Lab)**
   #### **Frontend and Backend(Figma > WP)** https://forazerbaijan.org
-  #### **Frontend and backend(Adobe XD > WP)** https://lingoways.com/en
+  <!-- #### **Frontend and backend(Adobe XD > WP)** https://lingoways.com/en -->
 
 
 ## **PSD to HTML**
